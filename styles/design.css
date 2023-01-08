@@ -43,9 +43,8 @@ margin-bottom: 32px;
 
 }
 /* main section */
-main{
 
-}
+
 .failour{
     display: flex;
     align-items: center;
@@ -53,10 +52,11 @@ main{
     /* margin: 0px 322px 0px 206px; */
     gap: 87px;
     margin: 0px auto;
+
 }
-.failour-img{
-     /* margin: 0px 825px 0px 206px;  */
-}
+/* .failour-img{
+     margin: 0px 825px 0px 206px;  */
+
 .section-title{
     font-weight: 700;
     font-size: 40px;
@@ -80,6 +80,15 @@ main{
     color: #444343;
     /* margin: 0px 200px 0px 400px; */
    
+   
+}
+/* success section */
+.success{
+    display: flex;
+    margin: 147px auto;
+    gap: 87px;
+    align-items: center;
+    max-width: 1072px;
    
 }
 
